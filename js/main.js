@@ -1,5 +1,5 @@
 console.log("Hola mundo");
 
 (() => {
-  console.log("Ready");
+  console.log("This app is ready");
 })()
