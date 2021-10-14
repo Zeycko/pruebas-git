@@ -4,5 +4,3 @@
 
 function say(){}
 
-function name(name="hola") {
-  return name;
