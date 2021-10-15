@@ -27,3 +27,7 @@ img {
 small {
 	display: flex;
 }
+
+cite {
+	display: block;
+}
